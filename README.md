@@ -3,7 +3,7 @@ Here are the suggested instructions for the `README.md` file for your GitHub rep
 
 ---
 
-# Janitri Backend Assignment
+# API Development Using Spring Boot
 
 ## Overview
 This project is a simplified backend system that manages devices monitoring patient heart rate data. It is developed using Spring Boot and exposes RESTful APIs for handling user, patient, and heart rate data management.
