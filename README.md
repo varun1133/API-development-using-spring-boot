@@ -119,12 +119,8 @@ To run the project locally, ensure you have the following installed:
 API endpoints are self-documented using Swagger. Access it at:
 [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
 
-## License
-This project is for assessment purposes only and has no official license.
 
 ## Contact
-For any questions or issues, please contact [your email/contact information].
+For any questions or issues, please contact varungowda1103@gmail.com.
 
 ---
-
-Replace placeholders like `<repository-url>` and `your_application_name` with actual values specific to your project.
